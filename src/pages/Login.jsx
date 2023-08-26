@@ -5,7 +5,7 @@ import Add from "../images/addAvatar.png";
 
 const Login = () => {
     return (
-        <div class = "formContainer">
+        <div className = "formContainer">
             <div className="formWrapper">
                 <span className="logo">My Chat App</span>
                 <span className="title">Login</span>
